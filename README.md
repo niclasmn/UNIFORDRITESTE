@@ -1,5 +1,7 @@
 # Unifor Global Pathways
 
+> **Demonstração portátil (um único HTML):** [Abrir/baixar o protótipo independente](public/standalone/index.html). Esse arquivo reúne a interface, os estilos e o JavaScript em um documento só, ideal para apresentar a experiência sem instalar dependências. A aplicação principal continua sendo a versão React/TanStack Start em `src/`.
+
 No PDF do Site-Dri-Expandido-DESKTOP encontram-se os modelos visuais designados para as telas desejadas para o aplicativo/site que você deve gerar, sendo "PUMI" o nome do projeto porém o site não tem nome específico, sendo somente uma extensão do site existente da DRI da Unifor, que se encontra em "https://unifor.br/dri/inicial"
 
 Desejo que você, com base nas telas, formatadas nos PDFS considerando a visualização do site em Desktop, sendo as telas em Desktop a referência principal de estilização e telas, gere um protótipo funcional, e deixo o arquivo de Documento de Visão Revisado para você implementar as funcionalidades corretamente, porém seguindo as formas das telas no PDF de conceptualização das telas do site.
